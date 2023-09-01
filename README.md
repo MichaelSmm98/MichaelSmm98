@@ -1,4 +1,4 @@
-### Hi th<h1 align="center">Hola soy Michael Mendieta</h1>
+###<h1 align="center">Hola soy Michael Mendieta</h1>
 <h3 align="center">Estudiante de la EAM, tecnologo en desarrollo de software</h3>
 
 - Estoy aprendiendo **Computación en la nube: contenedores**
